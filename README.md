@@ -1,6 +1,7 @@
-# AI
+# AI Resources
 
------------------PRIMER-------------------
+-----------------**PRIMER**-------------------
+
 🐍 **Coding: Python**
 
 
@@ -17,7 +18,9 @@
  https://github.com/donnemartin/system-design-primer?tab=readme-ov-file#system-design-topics-start-here 
  https://web.archive.org/web/20221030091841/http://www.lecloud.net/tagged/scalability/chrono 
 
-----------------Core Subject---------------
+
+----------------**Core Subject**---------------
+
 🦍 **Machine Learning Basics:**
 1. Google: https://cloud.google.com/learn/training/machinelearning-ai
 2. Course era: andreew Ng https://www.coursera.org/specializations/machine-learning-introduction?action=enroll&utm_campaign=WebsiteCourses-MLS-TopButton-mls-launch-2022&utm_medium=institutions&utm_source=deeplearning-ai 
@@ -30,11 +33,12 @@ LangGraph
 
 
 🦁 **Advanced Concepts:**
-NL
+Neural Networks
 
 
 
 🐞**NLP**
+LLMs
 
 
 🪼 **Deep Learning:**
@@ -42,6 +46,7 @@ NL
 
 
 
+------------------**Branch off**--------------------
 
 🐊 **Data Learning Path:**
  https://cloud.google.com/learn/training/data-engineering-and-analytics 
